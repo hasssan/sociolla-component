@@ -9,10 +9,6 @@
   "license": "MIT",
   "homepage": "https://github.com/tukangdezain/sociolla-component#readme",
   "author": "Mochamad Taufan",
-  "scripts": {
-    "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build"
-  },
   "dependencies": {
     "bootstrap": "^4.1.3",
     "vue": "^2.5.17",
