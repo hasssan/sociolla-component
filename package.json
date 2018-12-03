@@ -1,9 +1,38 @@
 {
   "name": "sociolla-component",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "Sociolla Component",
+  "files": [
+    "src/assets/sass/style.scss"
+  ],
   "repository": "tukangdezain/sociolla-component",
   "license": "MIT",
   "homepage": "https://github.com/tukangdezain/sociolla-component#readme",
-  "author": "Mochamad Taufan"
+  "author": "Mochamad Taufan",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "vue": "^2.5.17",
+    "vue-router": "^3.0.1"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.1.1",
+    "@vue/cli-service": "^3.1.1",
+    "node-sass": "^4.9.0",
+    "sass-loader": "^7.0.1",
+    "vue-template-compiler": "^2.5.17"
+  },
+  "postcss": {
+    "plugins": {
+      "autoprefixer": {}
+    }
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 8"
+  ]
 }
