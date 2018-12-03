@@ -8,15 +8,5 @@
   "repository": "tukangdezain/sociolla-component",
   "license": "MIT",
   "homepage": "https://github.com/tukangdezain/sociolla-component#readme",
-  "author": "Mochamad Taufan",
-  "postcss": {
-    "plugins": {
-      "autoprefixer": {}
-    }
-  },
-  "browserslist": [
-    "> 1%",
-    "last 2 versions",
-    "not ie <= 8"
-  ]
+  "author": "Mochamad Taufan"
 }
