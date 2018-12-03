@@ -2,9 +2,6 @@
   "name": "sociolla-component",
   "version": "1.0",
   "description": "Sociolla Component",
-  "files": [
-    "src/assets/sass/style.scss"
-  ],
   "repository": "tukangdezain/sociolla-component",
   "license": "MIT",
   "homepage": "https://github.com/tukangdezain/sociolla-component#readme",
